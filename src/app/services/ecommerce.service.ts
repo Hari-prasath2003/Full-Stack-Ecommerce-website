@@ -1,6 +1,5 @@
 import { Injectable } from '@angular/core';
 
-
 const signupURL='https://fullstackecommercewebsite.pythonanywhere.com/api/signup';
 const signinURL='https://fullstackecommercewebsite.pythonanywhere.com/api/signin';
 const productsURL='https://fullstackecommercewebsite.pythonanywhere.com/api/products';
